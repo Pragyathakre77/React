@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,63 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+
+
+/* #div{
+  display: flex;
+  justify-content: space-between;
 }
+
+p{
+  font-size: 50px;
+} */
+
+
+/* // Counter mini project */
+
+/* .container{
+  width: 100vw;
+  height: 100vh;
+  flex: col;
+  justify-content: center;
+  align-items: center;
+  gap: 10;
+} */
+
+
+/* //Counter mini project */
+
+/* .container{
+  width: 100vw;
+  height: 100vh;
+  background-color: #344151;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  gap: 10;
+}
+
+.dcontainer{
+  color: #0398d4;
+  font-size: 30px;
+}
+
+.bcontainer{
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  gap: 12;
+  font-size: 25px;
+  color:#344151 ;
+  padding: 10px;
+} */
+
+
+/* //Calculator */
+
+.app{
+  background-color: black;
+}
+
